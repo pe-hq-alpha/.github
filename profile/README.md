@@ -11,7 +11,7 @@
 PlusOne brings the scattered work of planning an event into one app: the plan and budget, vendors found and written to, and every quote on the same lines, with missing charges flagged, the local price range, and verified vendors answering the same brief. Built for families and event managers, with Meta's models at its core.
 
 - **Try it:** [plusoneevents.site](https://plusoneevents.site), with two demos and no sign-up
-- **Watch the demo:** [youtu.be/rlMwQiZfW2g](https://youtu.be/rlMwQiZfW2g)
+- **Watch the demo:** [youtube.com/watch?v=rlMwQiZfW2g](https://www.youtube.com/watch?v=rlMwQiZfW2g)
 
 **How it makes money:** a monthly plan for planners and a listing subscription for vendors, then in time a disclosed commission on bookings paid through PlusOne.
 
